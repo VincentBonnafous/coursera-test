@@ -1,0 +1,15 @@
+.nav li {
+    background-color:bisque;
+}
+
+.container {
+    background-color: aqua;
+    height: 1000px;
+}
+
+@media (max-width: 767px) {
+    .container {
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+  }
